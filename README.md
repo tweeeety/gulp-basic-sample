@@ -1,2 +1,2 @@
 # gulp-basic-sample
-ただsのgulp-basic-sampleです
+ただのgulp-basic-sampleです
